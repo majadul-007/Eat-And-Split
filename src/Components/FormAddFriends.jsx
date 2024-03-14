@@ -47,7 +47,7 @@ const FormAddFriends = ({onAddFriend}) => {
           </input>
           
           <label>👨‍💻 Image URL</label>
-          <input type="text"
+          <input type="text" disabled
           
           value={image}
           onChange={(e)=> setImage(e.target.value)}
