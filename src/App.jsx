@@ -84,6 +84,8 @@ function App() {
   return (
     <>
         {/* <h1 >Eat-N-Split Bill</h1> */}
+
+        <div className='header-container'><h1>Eat And Split Bill</h1></div>
       <div className='app main-container'>
 
         <div className='sidebar'>
